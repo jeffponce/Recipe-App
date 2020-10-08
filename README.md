@@ -1,5 +1,5 @@
 # Recipe Application
 
-This would be my second JavaScript project which is part of a Training Course I am currently taking. This app we have a simple budget tracker with the ability to calculate the percentages of your expenses versus your total budget, or income. Key concepts learned were project planning and architecture. Using a UI Controller, App Controller, and Global Controller to structure your functions and methods to keep your code private. DOM manipulation, object prototypes, CSS styling, HTML, and event delegation.
+Capstone JavaScript project which is part of a Training Course I am currently taking. This application is a recipe website that allows you to search recipes from the database, returning cooking time, serving size, and the ingredients. We also have the ability to create a shopping list with the recipe's ingredients. We used modern Javascript and with webpack to develop and bundle our code. Using a UI Controller, App Controller, and Global Controller to structure your functions and methods to keep your code private. DOM manipulation, object prototypes, CSS styling, HTML, and event delegation.
 
-![]()
+![image]()
