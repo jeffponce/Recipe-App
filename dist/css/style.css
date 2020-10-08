@@ -76,7 +76,7 @@ body {
     fill: currentColor; }
 
 .btn-inline {
-  color: #F59A83;
+  color: #FF7F50;
   font-size: 1.2rem;
   border: none;
   background-color: #F9F5F3;
@@ -108,7 +108,7 @@ body {
   .btn-tiny svg {
     height: 100%;
     width: 100%;
-    fill: #F59A83;
+    fill: #FF7F50;
     transition: all .3s; }
   .btn-tiny:focus {
     outline: none; }
@@ -124,7 +124,7 @@ body {
 .heading-2 {
   font-size: 1.8rem;
   font-weight: 600;
-  color: #F59A83;
+  color: #FF7F50;
   text-transform: uppercase;
   margin-bottom: 2.5rem;
   text-align: center;
@@ -145,7 +145,7 @@ body {
   .loader svg {
     height: 5.5rem;
     width: 5.5rem;
-    fill: #F59A83;
+    fill: #FF7F50;
     transform-origin: 44% 50%;
     animation: rotate 1.5s infinite linear; }
 
@@ -206,7 +206,7 @@ body {
     visibility: visible;
     opacity: 1; }
   .likes__icon {
-    fill: #F59A83;
+    fill: #FF7F50;
     height: 3.75rem;
     width: 3.75rem; }
   .likes__panel {
@@ -274,7 +274,7 @@ body {
   .results__name,
   .likes__name {
     font-size: 1.3rem;
-    color: #F59A83;
+    color: #FF7F50;
     text-transform: uppercase;
     font-weight: 600;
     margin-bottom: .3rem; }
@@ -355,7 +355,7 @@ body {
   .recipe__info-icon {
     height: 2rem;
     width: 2rem;
-    fill: #F59A83;
+    fill: #FF7F50;
     margin-right: 1rem; }
   .recipe__info-data {
     margin-right: .4rem;
@@ -411,8 +411,8 @@ body {
   .recipe__icon {
     height: 1.8rem;
     width: 1.8rem;
-    fill: #F59A83;
-    border: 1px solid #F59A83;
+    fill: #FF7F50;
+    border: 1px solid #FF7F50;
     border-radius: 50%;
     padding: 2px;
     margin-right: 1rem;
